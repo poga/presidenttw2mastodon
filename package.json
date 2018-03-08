@@ -1,0 +1,19 @@
+{
+  "name": "presidenttw2mastodon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "level": "^3.0.0",
+    "minimist": "^1.2.0",
+    "npm": "^5.7.1",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
